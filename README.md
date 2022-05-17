@@ -3,7 +3,7 @@
 ## I'm a Data Engineer!
 
 - 🥰 Python is my favorite programming language!
-- 🌱 I’m currently learning Apache Spark and AWS
+- 🌱 I’m currently learning Apache Spark, Apache Airflow and AWS
 - 👉 My [Linkedin profile](https://www.linkedin.com/in/jessica-eloyse/)
 - ⚡ Fun fact: I love to play guitar and ukulele! 
   - 👉 My [SoundCloud](https://soundcloud.com/jessica-eloyse)
